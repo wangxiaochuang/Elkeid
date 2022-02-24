@@ -7,7 +7,7 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
-	"github.com/wangxiaochuang/Elkeid/server/service_discovery/common/ylog"
+	"github.com/wangxiaochuang/Elkeid/server/ylog"
 )
 
 var (

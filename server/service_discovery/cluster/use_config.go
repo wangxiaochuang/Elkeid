@@ -5,7 +5,7 @@ import (
 
 	"github.com/wangxiaochuang/Elkeid/server/service_discovery/common"
 	"github.com/wangxiaochuang/Elkeid/server/service_discovery/common/safemap"
-	"github.com/wangxiaochuang/Elkeid/server/service_discovery/common/ylog"
+	"github.com/wangxiaochuang/Elkeid/server/ylog"
 )
 
 type ConfigCluster struct {

@@ -9,8 +9,8 @@ import (
 	"github.com/levigross/grequests"
 	"github.com/wangxiaochuang/Elkeid/server/service_discovery/cluster"
 	"github.com/wangxiaochuang/Elkeid/server/service_discovery/common/safemap"
-	"github.com/wangxiaochuang/Elkeid/server/service_discovery/common/ylog"
 	"github.com/wangxiaochuang/Elkeid/server/service_discovery/server/midware"
+	"github.com/wangxiaochuang/Elkeid/server/ylog"
 )
 
 const (

@@ -1,0 +1,4 @@
+server/service_discovery/service_discovery
+server/service_discovery/log
+server/manager/manager
+server/manager/log

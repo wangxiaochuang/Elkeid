@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/wangxiaochuang/Elkeid/server/service_discovery/common"
-	"github.com/wangxiaochuang/Elkeid/server/service_discovery/common/ylog"
 	"github.com/wangxiaochuang/Elkeid/server/service_discovery/server/handler"
+	"github.com/wangxiaochuang/Elkeid/server/ylog"
 )
 
 func ServerStart(ip string, port int) {
